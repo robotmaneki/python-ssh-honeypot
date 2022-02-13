@@ -22,6 +22,8 @@ RIGHT_KEY = '\x1b[C'.encode()
 LEFT_KEY = '\x1b[D'.encode()
 BACK_KEY = '\x7f'.encode()
 
+# https://docs.python.org/3/library/logging.html
+
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     level=logging.INFO,
