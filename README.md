@@ -1,5 +1,9 @@
-# Basic SSH Honeypot
-A basic SSH honeypot built with Python and containerised in Docker. Part of my blog post: [How to build an SSH honeypot in Python and Docker - Part 1](https://securehoney.net/blog/how-to-build-an-ssh-honeypot-in-python-and-docker-part-1.html).
+# Python SSH Honeypot
+
+Forked from 
+https://securehoney.net/blog/how-to-build-an-ssh-honeypot-in-python-and-docker-part-1.html
+https://github.com/sjbell/basic_ssh_honeypot
+
 
 Uses the [Paramiko](https://github.com/paramiko/paramiko) Python SSH protocol library.
 
